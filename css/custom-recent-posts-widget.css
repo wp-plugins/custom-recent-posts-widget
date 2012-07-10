@@ -1,5 +1,5 @@
 /*
-For Version 1.0
+For Version 1.1
 */
 
 .custom_recent_posts_widget * {
@@ -11,7 +11,7 @@ For Version 1.0
 	line-height: 18px;
 }
 
-.custom_recent_posts_widget .post-title{
+.custom_recent_posts_widget .crpw-title {
 	font-size: 12px;	
         font-weight: normal;
 }
@@ -21,7 +21,7 @@ For Version 1.0
 	list-style-type: none;
 	margin: 3px 0;
 	padding: 3px 0;
-	border-bottom:1px solid #EEEEEE;
+	border-bottom: 1px solid #E3E3E3;
 }
 
 .custom_recent_posts_widget .post-entry{ 
