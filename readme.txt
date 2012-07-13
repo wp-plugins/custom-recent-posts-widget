@@ -42,10 +42,10 @@ A special thanks to <a href="http://blog.kjodle.net/">Ken</a> and <a href="http:
 
 == Screenshots ==
 
-1. <strong>Custom Recent Post Widget.</strong>
-2. <strong>Custom Recent Post Widget when added to sidebar on widget menu. Here the number of posts to show is set to 6 and only the 'Wordpress' category is selected.</strong>
-3. <strong>Custom Recent Post Widget showing a list of 6 recent posts from the category 'Wordpress'.</strong>
-4. <strong>Custom Recent Post Widget in Kennneth John Odle's blog.</strong>
+1. Custom Recent Post Widget
+2. Custom Recent Post Widget when added to sidebar on widget menu. Here the number of posts to show is set to 6 and only the 'Wordpress' category is selected
+3. Custom Recent Post Widget showing a list of 6 recent posts from the category 'Wordpress'
+4. Custom Recent Post Widget in Kennneth John Odle's blog
 
 == Changelog ==
 
