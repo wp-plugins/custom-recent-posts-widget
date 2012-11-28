@@ -1,25 +1,21 @@
 === Custom Recent Posts Widget ===
 Contributors: prasannasp 
-Donate link: http://www.prasannasp.net/
+Donate link: http://www.prasannasp.net/donate/
 License: GPLv3
 License URI: http://www.gnu.org/copyleft/gpl.html
-Tags: recent posts, category, categories, widget, post list, exclude, include
+Tags: recent posts, category, categories, tag, tags, widget, post list, exclude, include
 Requires at least: 3.1
-Tested up to: 3.4.1
-Stable tag: 2.0
+Tested up to: 3.5
+Stable tag: 2.1
 
 A widget to show recent posts list based on categories or tags
 
 == Description ==
-This plugin creates a new widget which lets you show a list of recent posts based on categories or tags. This is a must have plugin if you want to exclude some categories in recent posts widget or if you want to show recent posts based on tags. By default the wordpress recent posts widget shows a posts from all category. But this plugin gives you more power to customize your recent posts widget.
+This plugin creates a new widget which lets you show a list of recent posts based on categories or tags. This is a must have plugin if you want to exclude some categories in recent posts widget or if you want to show recent posts based on tags. By default the wordpress recent posts widget shows a posts from all category. But this plugin gives you more power to customize your recent posts widget. You can also display post date in the widget.
 
-You can see the working example of this plugin on Kennneth John Odle's <a href="http://blog.kjodle.net/">blog</a>. See these widgets in sidebar,
+See the live action of this plugin on <a href="http://demo.prasannasp.net/custom-recent-posts-widget/">demo site</a> or on Kennneth John Odle's <a href="http://blog.kjodle.net/">blog</a>.
 
-<ul>
-<li><a href="http://blog.kjodle.net/#custom-recent-posts-2">WordPress Tutorials</a></li>
-<li><a href="http://blog.kjodle.net/#custom-recent-posts-3">WordPress Plugin Tutorials</a></li>
-<li><a href="http://blog.kjodle.net/#custom-recent-posts-4">Graphene Tutorials</a></li>
-</ul>
+Have any questions or suggestions? Create a thread in the <a href="http://forum.prasannasp.net/forum/plugin-support/custom-recent-posts-widget/">support forum</a>.
 
 Visit <a href="http://www.prasannasp.net/wordpress-plugins/">this page</a> for more <strong>WordPress Plugins</strong> from the developer.
 
@@ -42,6 +38,8 @@ A special thanks to <a href="http://blog.kjodle.net/">Ken</a> and <a href="http:
 3. Custom Recent Post Widget showing a list of 6 recent posts from the category 'Wordpress'
 4. Custom Recent Post Widget in Kennneth John Odle's blog
 5. Custom Recent Posts by Tags Widget
+6. Custom Recent Posts by Tags Widget configuration
+7. Custom Recent Posts widget with date in 2012 theme
 
 == Frequently Asked Questions ==
 
@@ -58,6 +56,12 @@ The widgets inherit the style of default WordPress Recent Posts widget. You can 
 }`
 
 == Changelog ==
+
+= 2.1 =
+* Added option to show post date. Code taken from Recent Posts widget in WordPress 3.5
+* Changed classname
+
+Note: If it doesn't show recent posts after updating the plugin, go to widgets and just hit Save button in the Recent Posts widget configuration
 
 = 2.0 =
 * Added Custom Recent Posts by Tags Widget. You can show recent posts based on tags.
