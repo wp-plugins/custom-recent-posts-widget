@@ -6,7 +6,7 @@ License URI: http://www.gnu.org/copyleft/gpl.html
 Tags: recent posts, category, categories, tag, tags, widget, post list, exclude, include
 Requires at least: 3.1
 Tested up to: 3.5
-Stable tag: 2.1
+Stable tag: 2.1.1
 
 A widget to show recent posts list based on categories or tags
 
@@ -56,6 +56,10 @@ The widgets inherit the style of default WordPress Recent Posts widget. You can 
 }`
 
 == Changelog ==
+
+= 2.1.1 =
+
+* Changed classname back to `widget_recent_entries`. No more confusions. All themes should be happy now. Thanks Adam Parnala for bringing my attention to this issue.
 
 = 2.1 =
 * Added option to show post date. Code taken from Recent Posts widget in WordPress 3.5

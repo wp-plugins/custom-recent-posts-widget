@@ -3,7 +3,7 @@
 Plugin Name: Custom Recent Posts Widget
 Plugin URI: http://www.prasannasp.net/custom-recent-posts-widget/
 Description: This plugin creates a new widget which lets you display a list of recent posts based on categories or tags in widgetized areas. You can select the number of posts to display in widget settings. Widget title can be changed.
-Version: 2.1
+Version: 2.1.1
 Author: Prasanna SP
 Author URI: http://www.prasannasp.net/
 */

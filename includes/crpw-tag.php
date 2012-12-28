@@ -3,7 +3,7 @@ class CRPW_Tags_Widget extends WP_Widget {
 			
 	function __construct() {
     	$widget_ops = array(
-			'classname'   => 'custom_recent_posts_widget_tags', 
+			'classname'   => 'widget_recent_entries', 
 			'description' => __('Display a list of recent post entries from one or more Tags. You can choose the number of posts to show.')
 		);
     	parent::__construct('recent-posts-by-tags', __('Custom Recent Posts by Tags'), $widget_ops);

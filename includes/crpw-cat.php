@@ -3,7 +3,7 @@ class Custom_Recent_Posts_Widget extends WP_Widget {
 			
 	function __construct() {
     	$widget_ops = array(
-			'classname'   => 'custom_recent_posts_widget', 
+			'classname'   => 'widget_recent_entries', 
 			'description' => __('Display a list of recent post entries from one or more categories. You can choose the number of posts to show.')
 		);
     	parent::__construct('custom-recent-posts', __('Custom Recent Posts'), $widget_ops);
